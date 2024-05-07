@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/gauge"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/lueurxax/grabana"
+	"github.com/lueurxax/grabana/dashboard"
+	"github.com/lueurxax/grabana/gauge"
+	"github.com/lueurxax/grabana/row"
 )
 
 func main() {

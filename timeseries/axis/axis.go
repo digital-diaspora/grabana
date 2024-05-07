@@ -3,8 +3,8 @@ package axis
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/errors"
 )
 
 // PlacementMode represents the axis display placement mode.

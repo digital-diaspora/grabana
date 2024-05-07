@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/K-Phoen/grabana/datasource/prometheus"
+	"github.com/lueurxax/grabana/datasource/prometheus"
 	"github.com/stretchr/testify/require"
 )
 

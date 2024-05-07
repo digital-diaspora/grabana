@@ -3,11 +3,11 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/timeseries"
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/grabana/timeseries/fields"
+	"github.com/lueurxax/grabana/alert"
+	"github.com/lueurxax/grabana/row"
+	"github.com/lueurxax/grabana/timeseries"
+	"github.com/lueurxax/grabana/timeseries/axis"
+	"github.com/lueurxax/grabana/timeseries/fields"
 )
 
 var ErrInvalidGradientMode = fmt.Errorf("invalid gradient mode")

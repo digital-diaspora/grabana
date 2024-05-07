@@ -3,11 +3,11 @@ package heatmap
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/heatmap/axis"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/stackdriver"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/errors"
+	"github.com/lueurxax/grabana/heatmap/axis"
+	"github.com/lueurxax/grabana/links"
+	"github.com/lueurxax/grabana/target/stackdriver"
 	"github.com/stretchr/testify/require"
 )
 

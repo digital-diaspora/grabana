@@ -8,7 +8,7 @@ import (
 	"go.uber.org/zap"
 )
 
-const packageImportPath = "github.com/K-Phoen/grabana"
+const packageImportPath = "github.com/lueurxax/grabana"
 const sdkImportPath = "github.com/K-Phoen/sdk"
 
 type Encoder struct {

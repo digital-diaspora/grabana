@@ -3,11 +3,11 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/target/graphite"
-	"github.com/K-Phoen/grabana/target/influxdb"
-	"github.com/K-Phoen/grabana/target/loki"
-	"github.com/K-Phoen/grabana/target/prometheus"
-	"github.com/K-Phoen/grabana/target/stackdriver"
+	"github.com/lueurxax/grabana/target/graphite"
+	"github.com/lueurxax/grabana/target/influxdb"
+	"github.com/lueurxax/grabana/target/loki"
+	"github.com/lueurxax/grabana/target/prometheus"
+	"github.com/lueurxax/grabana/target/stackdriver"
 )
 
 var ErrTargetNotConfigured = fmt.Errorf("target not configured")

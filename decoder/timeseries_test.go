@@ -3,10 +3,10 @@ package decoder
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/timeseries"
-	"github.com/K-Phoen/grabana/timeseries/axis"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/dashboard"
+	"github.com/lueurxax/grabana/timeseries"
+	"github.com/lueurxax/grabana/timeseries/axis"
 	"github.com/stretchr/testify/require"
 )
 

@@ -7,15 +7,15 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/variable/constant"
-	"github.com/K-Phoen/grabana/variable/custom"
-	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/grabana/variable/interval"
-	"github.com/K-Phoen/grabana/variable/query"
-	"github.com/K-Phoen/grabana/variable/text"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/alert"
+	"github.com/lueurxax/grabana/row"
+	"github.com/lueurxax/grabana/variable/constant"
+	"github.com/lueurxax/grabana/variable/custom"
+	"github.com/lueurxax/grabana/variable/datasource"
+	"github.com/lueurxax/grabana/variable/interval"
+	"github.com/lueurxax/grabana/variable/query"
+	"github.com/lueurxax/grabana/variable/text"
 )
 
 // TagAnnotation describes an annotation represented as a Tag.

@@ -3,7 +3,7 @@ package discord
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/alertmanager"
+	"github.com/lueurxax/grabana/alertmanager"
 	"github.com/stretchr/testify/require"
 )
 

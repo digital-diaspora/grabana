@@ -1,17 +1,17 @@
 package row
 
 import (
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/gauge"
-	"github.com/K-Phoen/grabana/graph"
-	"github.com/K-Phoen/grabana/heatmap"
-	"github.com/K-Phoen/grabana/logs"
-	"github.com/K-Phoen/grabana/singlestat"
-	"github.com/K-Phoen/grabana/stat"
-	"github.com/K-Phoen/grabana/table"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/alert"
+	"github.com/lueurxax/grabana/gauge"
+	"github.com/lueurxax/grabana/graph"
+	"github.com/lueurxax/grabana/heatmap"
+	"github.com/lueurxax/grabana/logs"
+	"github.com/lueurxax/grabana/singlestat"
+	"github.com/lueurxax/grabana/stat"
+	"github.com/lueurxax/grabana/table"
+	"github.com/lueurxax/grabana/text"
+	"github.com/lueurxax/grabana/timeseries"
 )
 
 // Option represents an option that can be used to configure a row.

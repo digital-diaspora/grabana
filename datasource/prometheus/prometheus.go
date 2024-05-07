@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/K-Phoen/grabana/datasource"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/datasource"
 )
 
 var _ datasource.Datasource = Prometheus{}

@@ -3,9 +3,9 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/heatmap"
-	"github.com/K-Phoen/grabana/heatmap/axis"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/lueurxax/grabana/heatmap"
+	"github.com/lueurxax/grabana/heatmap/axis"
+	"github.com/lueurxax/grabana/row"
 )
 
 var ErrInvalidDataFormat = fmt.Errorf("invalid data format")

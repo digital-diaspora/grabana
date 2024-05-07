@@ -1,8 +1,8 @@
 package encoder
 
 import (
-	"github.com/K-Phoen/grabana/encoder/golang"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/encoder/golang"
 	"go.uber.org/zap"
 )
 

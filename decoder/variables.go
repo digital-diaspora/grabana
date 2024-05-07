@@ -3,13 +3,13 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/variable/constant"
-	"github.com/K-Phoen/grabana/variable/custom"
-	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/grabana/variable/interval"
-	"github.com/K-Phoen/grabana/variable/query"
-	"github.com/K-Phoen/grabana/variable/text"
+	"github.com/lueurxax/grabana/dashboard"
+	"github.com/lueurxax/grabana/variable/constant"
+	"github.com/lueurxax/grabana/variable/custom"
+	"github.com/lueurxax/grabana/variable/datasource"
+	"github.com/lueurxax/grabana/variable/interval"
+	"github.com/lueurxax/grabana/variable/query"
+	"github.com/lueurxax/grabana/variable/text"
 )
 
 var ErrVariableNotConfigured = fmt.Errorf("variable not configured")

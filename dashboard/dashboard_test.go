@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/grabana/variable/text"
+	"github.com/lueurxax/grabana/variable/datasource"
+	"github.com/lueurxax/grabana/variable/text"
 	"github.com/stretchr/testify/require"
 )
 

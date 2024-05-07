@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/K-Phoen/grabana/decoder"
+	"github.com/lueurxax/grabana/decoder"
 )
 
 func main() {

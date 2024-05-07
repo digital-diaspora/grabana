@@ -3,9 +3,9 @@ package logs
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
 	"github.com/K-Phoen/sdk"
+	"github.com/lueurxax/grabana/errors"
+	"github.com/lueurxax/grabana/links"
 	"github.com/stretchr/testify/require"
 )
 

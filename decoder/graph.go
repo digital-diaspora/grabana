@@ -3,11 +3,11 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/axis"
-	"github.com/K-Phoen/grabana/graph"
-	"github.com/K-Phoen/grabana/graph/series"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/lueurxax/grabana/alert"
+	"github.com/lueurxax/grabana/axis"
+	"github.com/lueurxax/grabana/graph"
+	"github.com/lueurxax/grabana/graph/series"
+	"github.com/lueurxax/grabana/row"
 )
 
 var ErrInvalidLegendAttribute = fmt.Errorf("invalid legend attribute")
